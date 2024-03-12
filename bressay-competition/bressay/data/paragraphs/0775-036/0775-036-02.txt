@@ -1,0 +1,12 @@
+Esse diagnóstico é feitos, normalmente, somente pela análise de exames
+por parte do médico, e com isso, ele consegue chegar a uma conclusão
+sobre o que se passa com o paciente. Diferentemente disso, o diagnóstico feito
+pela IA é baseado em semelhanças e diferenças com casos antigos, assim, caso
+apareça um paciente com --(est)-- sintomas --(for de)-- que não batem com os seus dados,
+o diagnóstico ser inconclusivo ou até mesmo errôneo. Nesse caminho, Hang Fernando,
+autor de "A inteligência artificial vai revolucionar a medicina que conhecemos", afirma
+que "entre erros e acertos", o sistema de inteligência artificial aprimora seus
+resultados e sua eficácia. Contudo, quantos "erros" são necessários para ter um siste-
+ma seguro? Quantas vidas são perdidas com esses erros? Assim, um médico não
+deve confiar totalmente em um diagnóstico feito pela IA sem --(antes)-- analisar o
+caso pessoalmente, e nenhuma vida deve ser perdida por ter um sistema seguro.

@@ -1,0 +1,6 @@
+O filme "Wall-E" retrata uma sociedade futuristica em que a tecnologia e os robôs tomaram
+conta da maior parte das funções humanas, transformando fortemente o convívio entre as pessoas.
+Seguindo essa linha de pensamento, surgiu nos dias atuais a discussão sobre a utilização de dados no
+diagnóstico de pacientes. Nesse sentido, ainda que as informações fornecidas pela inteligência artificial
+venham a contribuir para o atendimento e diagnóstico de indivíduos, esse prognóstico deve ser de respon-
+sabilidade ética do médico, seguindo seus conhecimentos e --inten-- intuições.

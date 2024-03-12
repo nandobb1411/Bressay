@@ -1,0 +1,7 @@
+Ainda que a máquina possa ter defeitos, há casos em que o seu desempe-
+nho é --xxx-- impressionante, como quando faz a leitura de mamografías, caso em
+que pode ter um desempenho melhor do que um médico. Por conta disso, percebe-
+se a importância e a ajuda que a inteligência artificial pode --(proporcio)-- proporcionar.
+Assim, diagnósticos feitos com IA devem servir como ferramentas de análise,
+ajudando um médico a chegar a uma conclusão, sem dispensar o método tradicio-
+nal de diagnóstico.

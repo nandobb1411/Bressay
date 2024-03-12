@@ -1,0 +1,34 @@
+A inteligência artificial chegou à medicina e está cada vez mais presente
+nesse setor. Esse sistema utiliza uma massa infindável de dados para analisar e
+prever o comportamento do sistema humano. Entretanto, por ser um sistema
+novo e por ser alimentado por prontuários eletrônicos, a IA pode produzir diag-
+nósticos errôneos, caso os prontuários sejam mal preenchidos. Desse modo, é res-
+ponsabilidade ética de um médico analisar e confrontar os dados fornecidos
+pela IA, principalmente quando há divergências nos diagnósticos.
+
+Esse diagnóstico é feitos, normalmente, somente pela análise de exames
+por parte do médico, e com isso, ele consegue chegar a uma conclusão
+sobre o que se passa com o paciente. Diferentemente disso, o diagnóstico feito
+pela IA é baseado em semelhanças e diferenças com casos antigos, assim, caso
+apareça um paciente com --(est)-- sintomas --(for de)-- que não batem com os seus dados,
+o diagnóstico ser inconclusivo ou até mesmo errôneo. Nesse caminho, Hang Fernando,
+autor de "A inteligência artificial vai revolucionar a medicina que conhecemos", afirma
+que "entre erros e acertos", o sistema de inteligência artificial aprimora seus
+resultados e sua eficácia. Contudo, quantos "erros" são necessários para ter um siste-
+ma seguro? Quantas vidas são perdidas com esses erros? Assim, um médico não
+deve confiar totalmente em um diagnóstico feito pela IA sem --(antes)-- analisar o
+caso pessoalmente, e nenhuma vida deve ser perdida por ter um sistema seguro.
+
+Ainda que a máquina possa ter defeitos, há casos em que o seu desempe-
+nho é --xxx-- impressionante, como quando faz a leitura de mamografías, caso em
+que pode ter um desempenho melhor do que um médico. Por conta disso, percebe-
+se a importância e a ajuda que a inteligência artificial pode --(proporcio)-- proporcionar.
+Assim, diagnósticos feitos com IA devem servir como ferramentas de análise,
+ajudando um médico a chegar a uma conclusão, sem dispensar o método tradicio-
+nal de diagnóstico.
+
+O diagnóstico médico deve ser feito, pois, por um médico com o auxilio
+de dados fornecidos por uma IA. Assim, é responsabilidade --(éticha)-- ##ética## de um
+médico analisar e julgar esses dados, prevalecendo sempre a palavra de quem
+estuda a vida inteira para fazer um diagnóstico e salvar vidas, e não
+uma máquina que utiliza erros, que podem custar vidas, para aprimorar-se.

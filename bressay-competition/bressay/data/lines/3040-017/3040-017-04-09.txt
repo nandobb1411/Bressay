@@ -1,0 +1,1 @@
+se defender antes da lista ser exposta.

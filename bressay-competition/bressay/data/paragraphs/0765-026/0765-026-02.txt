@@ -1,0 +1,8 @@
+A IA mostra-se como uma ferramenta fundamental no sistema de saúde devido à sua
+alta capacidade de analisar e processar um grande volume de dados, e, a partir deles, diagnos-
+ticar rapidamente diversas doenças. Contudo, quando essas máquinas são alimentadas
+com dados imprecisos, o padrão criado pode colocar em risco a vida do paciente, ##se## --caso-- o
+médico não usar de forma responsável a ferramenta. Conforme Kant, na obra supracitada,
+toda ação dur seguir o " imperativo categórico ". Isso significa que, caso ela seja universa-
+lizada, deve viabilizar e preservar a vida em sociedade. Logo, a --utilização-- IA deve ##se-## --ser--
+guir o " imperativo categórico" e ser utilizada de maneira ética e com parcimônia pelo médico.

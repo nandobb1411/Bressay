@@ -1,0 +1,31 @@
+É fato que, no mundo atual, a tecnologia tem ganhado cada vez mais
+espaço em diversos setores. Na saúde, no entanto, o uso de Inteligências Artificiais (IA)
+ainda é bastante controverso. Há quem o defenda em diagnósticos médicos, pautados na
+grande facilidade de processamento dessas máquinas. Já os contrários evidenciam, principalmente,
+a falha de caráter humano nesse processo, (onto-) falhando em questões éticas. Assim, questiona-se --xxx--
+se seria benéfico o uso das I.As para diagnósticos médicos na era da tecnologia.
+
+De um lado , os favoráveis ressaltam os já bem sucedidos casos con que, as IAs --(A)-- são
+utilizadas. Na mamografia, por exemplo, as máquinas são capazes de ler os exames, diagnosticar
+o paciente e cinda recomendar tratamentos de forma excelente. Da mesma forma , o diretor-
+-geral do Hospital Sírio-Libanês , Paulo Chapchap, afirma que a tecnologia veio para auxiliar
+Já que sua alta capacidade de armazenamento de dados permite a identificação das
+milhares de diferentes patologias e condições genéticas existentes - quase sempre mais
+precisamente do que um médico. No entanto , há casos em que a mal --(fundamento)--
+treinamento dessas IAs pode levar a um erro de diagnóstico, tornando seu uso perigoso.
+
+Por outro lado, os contrários ao uso das IAs acreditam que se trata de uma
+questão filosófica e ética. Como ##analisado por## --(acredita)-- Moraes --xxx-- Figueredo , doutor em informática, ao visitar
+um médico se aloca ali a vida sob responsabilidade de outra pessoa, comprometimento incapaz
+de ser oferecido por um programa de software. Além disso , o tratamento humanizado
+de um paciente pode , em muitos casos , fazer com que a carga emocional desse seja
+menor; --(o)-- um erro cometido por uma máquina pode agrava a doença ou
+até levar o paciente a óbito. Logo, a forma de tratamento médico - paciente
+nunca poderá ser reproduzida por --(um)-- software, nem como ele será conduzido.
+
+--(Por tanto)-- Portanto , é preciso ressaltar a importância da humanização
+do tratamento médico - paciente durante um diagnóstico. Vale lembrar que ,
+apesar de auxiliar --(na)-- --(o)-- na análise da situação pelo médico , a Inteligência
+Artificial não consegue substituí-lo. Desse modo , o médico deve assumir a
+responsabilidade final do diagnóstico do paciente , mesmo que haja o uso
+de IAs durante esse processo.

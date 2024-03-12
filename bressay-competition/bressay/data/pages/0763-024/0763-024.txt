@@ -1,0 +1,36 @@
+No mundo em que o google Maps lhe indica a melhor rota, o Spotify lhe sugere listas de
+músicas e o Netflix lhe recomenda as séries e documentários mais relevantes, a Inteligência
+artificial (IA) também se mostra presente no meio médico, principalmente na área de di-
+agnósticos. Essa tecnologia levanta questionamentos, mas, se bem empregada, pode trabalhar
+para os médicos como uma ferramenta adicional e contribuir para a melhora na quali-
+dade de vida dos seres humanos .
+
+Com o tanto de --em-- descobertas já feitas pela ciência até os dias atuais e com o tanto
+de informações disponíveis, é inegável que um computador com alta capacidade de proces-
+samento e memória consegue guardar muito mais informação que um cérebro humano
+Além disso, diferentes dos computadores, humanos são rejeitos a cansaço e a outros tipos de
+vieses mentais e emocionais que impactam sua capacidade de raciocínio e memória.
+Por esses motivos e por hoje a lA ser capaz de prever diagnósticos muitas vezes tão bom
+quanto médicos, ela deve ser usada como um recurso adicional, uma espécie
+de camada de checagem, para contribuir com o trabalho dos profissionais da
+área da saúde.
+
+A IA, entretanto, não está pronta, tal qual é hoje, para substituir por completo
+o capital humano envolvido nos diagnósticos. Apesar de oferecer benefícios de "back up"
+dos médicos, há outros factores que precisam ser considerados: por definição, a IA depende
+da qualidade dos dados que --xxx-- alimenta os algoritmos para funcionar bem e, nesse sentido,
+mais uma vez se está sujeito ao fator humano e, portanto, ao erro. Além disso, e de ma-
+--(neira)-- neira importante, há a questão ética relacionada a deixar que um computador defi-
+na a doença do paciente já que não há formas de responsabilizar legal ou penalmente
+uma máquina. Essa --(isensão)-- isenção de responsabilidade ainda representa uma
+barreira importante, e que talvez nunca seja transposta, para a adoção completa da IA ,
+e exclusão do médico, no diagnóstico.
+
+Dessa forma, embora os algoritmos tenham potencial de melhorar signi-
+ficativamente o diagnóstico de doenças, evitando que erros humanos passem
+sem serem notados, há outras facetas igualmente --signi-- relevantes que permeiam
+essa questão, como a ética, a responsabilidade e outros potenciais erros humanos.
+Portanto, ainda que a IA aporte benefícios, o diagnóstico, a escolha do tratamento
+e a disciplina em --xxx-- cumpri-lo seguirá sendo, no momento e nos próximos anos,
+uma tarefa compartilhada entre médico e paciente e que teve a tecnologia
+como auxiliar nesse processo.

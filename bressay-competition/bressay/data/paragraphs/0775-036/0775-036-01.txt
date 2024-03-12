@@ -1,0 +1,7 @@
+A inteligência artificial chegou à medicina e está cada vez mais presente
+nesse setor. Esse sistema utiliza uma massa infindável de dados para analisar e
+prever o comportamento do sistema humano. Entretanto, por ser um sistema
+novo e por ser alimentado por prontuários eletrônicos, a IA pode produzir diag-
+nósticos errôneos, caso os prontuários sejam mal preenchidos. Desse modo, é res-
+ponsabilidade ética de um médico analisar e confrontar os dados fornecidos
+pela IA, principalmente quando há divergências nos diagnósticos.

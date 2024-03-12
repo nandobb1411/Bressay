@@ -1,0 +1,6 @@
+É fato que, no mundo atual, a tecnologia tem ganhado cada vez mais
+espaço em diversos setores. Na saúde, no entanto, o uso de Inteligências Artificiais (IA)
+ainda é bastante controverso. Há quem o defenda em diagnósticos médicos, pautados na
+grande facilidade de processamento dessas máquinas. Já os contrários evidenciam, principalmente,
+a falha de caráter humano nesse processo, (onto-) falhando em questões éticas. Assim, questiona-se --xxx--
+se seria benéfico o uso das I.As para diagnósticos médicos na era da tecnologia.

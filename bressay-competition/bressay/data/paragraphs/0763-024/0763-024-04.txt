@@ -1,0 +1,8 @@
+Dessa forma, embora os algoritmos tenham potencial de melhorar signi-
+ficativamente o diagnóstico de doenças, evitando que erros humanos passem
+sem serem notados, há outras facetas igualmente --signi-- relevantes que permeiam
+essa questão, como a ética, a responsabilidade e outros potenciais erros humanos.
+Portanto, ainda que a IA aporte benefícios, o diagnóstico, a escolha do tratamento
+e a disciplina em --xxx-- cumpri-lo seguirá sendo, no momento e nos próximos anos,
+uma tarefa compartilhada entre médico e paciente e que teve a tecnologia
+como auxiliar nesse processo.

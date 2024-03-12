@@ -1,0 +1,9 @@
+Em segundo plano, vale destacar que o uso da inteligência artificial não garante --a-- um diagnóstico
+totalmente correto. Muito disso deve-se ao fato de que a tecnologia e seus algoritmos ainda depen-
+dem , em muito, do ser humano. Um exemplo disso é que os prontuários eletrônicos, que regem
+grande parte dos sistemas e treinam as IAS, até o momento, ainda são preenchidas por
+humanos, ou seja, se houver um erro nesse --preenchi-- preenchimento, todos os algoritmos e dados são
+diretamente prejudicados, levando aos erros nos diagnósticos. De modo geral, as informações fornecidas
+pela inteligência artificial têm origem humana e, consequentemente, são passíveis de incorreções
+e incertezas que podem comprometer a leitura e diagnósticos, necessitando, assim, da responsabi-
+lidade e ética final do médico.
